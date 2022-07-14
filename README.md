@@ -167,4 +167,4 @@ Baseado nos resultados obtidos foi possível prever o valor total <br>
 </ul>
 
 <h1> 11-	Modelo em produção no Telegram (Bot.) </h1>
-![image](https://user-images.githubusercontent.com/95039795/178861928-5ddf1dbd-3c23-4bc3-b490-53a3915ef141.png)
+![Bot  Telegram](https://user-images.githubusercontent.com/95039795/178862378-909269e4-d2a9-40bc-bb03-4520c229dba5.jpeg)
