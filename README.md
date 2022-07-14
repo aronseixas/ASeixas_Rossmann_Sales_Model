@@ -108,21 +108,22 @@ O presente projeto foi desenvolvido a partir da necessidade do CFO da drogaria R
 <h1>5-	Top Insights </h1>
 <h2><b>H1.</b> Lojas com maior sortimento deveriam vender mais.</h2>
 <b>VERDADEIRA:</b> Lojas com maior sortimento vendem, em média, mais. 
-<p>
-![image](https://user-images.githubusercontent.com/95039795/178856776-494693c6-5e9e-4d0c-9e7c-c0f6040dee6c.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178856776-494693c6-5e9e-4d0c-9e7c-c0f6040dee6c.png" width="500" height="400" />
 </p>
 
 <h2><b>H2.</b> Lojas com competidores mais próximos deveriam vender menos.</h2>
 <b>FALSA:</b> Lojas com competidores mais próximos vendem mais. 
-<p>
-![image](https://user-images.githubusercontent.com/95039795/178857286-be6ee7fd-1112-41de-acc7-1277b888da4a.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178857286-be6ee7fd-1112-41de-acc7-1277b888da4a.png" width="1100" height="500" />
 </p>
 
 <h2><b>H3.</b> Lojas deveriam vender mais depois do dia 10 de cada mês.</h2>
 <b>FALSA:</b> A venda média das lojas antes do dia 10 é superior à média depois do dia 10. 
-<p>
-![image](https://user-images.githubusercontent.com/95039795/178857299-f799c295-6103-4934-aec0-251e0c82d482.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178857299-f799c295-6103-4934-aec0-251e0c82d482.png" width="850" height="550" />
 </p>
+
 
 <h1> 6-	Modelos de Machine Learning utilizados</h1>
 <ul style=“list-style-type:circle”>
@@ -136,19 +137,26 @@ O presente projeto foi desenvolvido a partir da necessidade do CFO da drogaria R
 <h1> 7-	Performance</h1>
 
 <p> 7.1 -	Performance dos modelos.<br>
-![image](https://user-images.githubusercontent.com/95039795/178858172-837982ca-bc43-4946-a70c-24e4bd0418ce.png)
-
-<p> 7.2 - Performance com CV.<br>
-![image](https://user-images.githubusercontent.com/95039795/178858231-abf74275-bf81-427a-ad6d-0f3d2bd97af1.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178858172-837982ca-bc43-4946-a70c-24e4bd0418ce.png" width="500" height="200" />
 </p>
 
+<p> 7.2 - Performance com CV.<br>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178858231-abf74275-bf81-427a-ad6d-0f3d2bd97af1.png" width="700" height="200" />
+</p>    
+    
 <p> 7.3 - Performance após hyperparameter fine Tuning.<br>
-![image](https://user-images.githubusercontent.com/95039795/178858251-03c37321-535b-427d-9e4f-887042a87f55.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178858251-03c37321-535b-427d-9e4f-887042a87f55.png" width="600" height="110" />
+</p>
 </p>
 
 <h1> 8-	Performance do modelo em valores de negócio.</h1>
 Baseado nos resultados obtidos foi possível prever o valor total <br>
-![image](https://user-images.githubusercontent.com/95039795/178858436-f6058c64-24c4-4e29-ad72-60348f82f8b2.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178858436-f6058c64-24c4-4e29-ad72-60348f82f8b2.png" width="420" height="200" />
+</p>
 
 <h1> 9- Conclusão.</h1>
 <p> A partir do projeto desenvolvido, foi possível concluir que, dentre os modelos testados, o XGBoost foi o mais indicado para seguir para etapa final do desenvolvimento do projeto. O modelo final obtido apresentou, conforme mostrado anteriormente, um desempenho aceitável, onde o MAPE (Erro médio percentual absoluto) foi de 11,45%.</p>
@@ -167,5 +175,6 @@ Baseado nos resultados obtidos foi possível prever o valor total <br>
 </ul>
 
 <h1> 11-	Modelo em produção no Telegram (Bot.) </h1>
-
-![Bot  Telegram](https://user-images.githubusercontent.com/95039795/178864454-c8c343ec-417d-49b5-b6ae-8c39a4c34049.jpg)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/95039795/178864454-c8c343ec-417d-49b5-b6ae-8c39a4c34049.jpg" width="200" height="400" />
+</p>
